@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ronald</h1>
 <h3 align="center">Junior developer and Computer Science graduate</h3>
 
-- 🌱 I’m currently learning Python and extending my knowlege in android development
+- 🌱Always extending my knowlege as a developer
 
 - 👨‍💻 This is my most recent project in the play store [Check it out](https://play.google.com/store/apps/details?id=com.yoyoG.makeiteven2)
 
