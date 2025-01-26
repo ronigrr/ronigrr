@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ronald</h1>
-<h3 align="center">Junior developer and Computer Science graduate</h3>
+<h3 align="center">Software developer and Computer Science graduate</h3>
 
 - 🌱Always extending my knowlege as a developer
 
