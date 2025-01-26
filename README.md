@@ -3,8 +3,6 @@
 
 - 🌱Always extending my knowlege as a developer
 
-- 👨‍💻 This is my most recent project in the play store [Check it out](https://play.google.com/store/apps/details?id=com.yoyoG.makeiteven2)
-
 
 <h3 align="left">Languages and Tools:</h3></a>
 <a href="https://developer.android.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="firebase" width="40" height="40"/> </a>
