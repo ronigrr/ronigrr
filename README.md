@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ronald</h1>
-<h3 align="center">An Enthusiastic Software Developer with a BSc in Computer Science</h3>
+<h3 align="center">An Enthusiastic Software Developer (BSc CS)</h3>
 
 <p align="center">🌱 Constantly learning and evolving to create innovative solutions with cutting-edge technologies.</p>
 
